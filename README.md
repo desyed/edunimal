@@ -1,4 +1,4 @@
-# dunimal
+# Edunimal
 
 Animal identifier app for kids.
 
